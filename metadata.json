@@ -1,0 +1,6 @@
+{
+  "name": "Keyboard",
+  "description": "Customizable, open-source keyboard with clipboard management and emojis",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
